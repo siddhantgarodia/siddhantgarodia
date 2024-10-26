@@ -1,8 +1,8 @@
-###Hello, I'm Siddhant 👋
+# Hello, I'm Siddhant 👋
 
 Welcome to my GitHub profile! I'm a aspiring software developer based in India. I have a passion for coding, web development, and machine learning, and I'm always eager to learn and collaborate on exciting projects.
 
-##About Me: 
+## About Me: 
 
 -🔭 I’m currently working on a image processing project.
 
@@ -10,21 +10,21 @@ Welcome to my GitHub profile! I'm a aspiring software developer based in India. 
 
 -📫 How to reach me: siddhantgarodia23@gmail.com.
 
-##Skills:
+## Skills:
 
-#Languages:
+### Languages:
 
 Python, C++ , Java , C
 
-#Web Development:
+### Web Development:
 
 HTML, CSS, JavaScript, ReactJS, AngularJS
 
-#Databases and Back-end:
+### Databases and Back-end:
 
 MySQL , Git , Linux 
 
-#Machine Learning and AI:
+### Machine Learning and AI:
 
 OpenCV , TensorFlow , YOLOv8
 
