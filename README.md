@@ -1,31 +1,32 @@
-Hello, I'm Siddhant 👋
+###Hello, I'm Siddhant 👋
 
 Welcome to my GitHub profile! I'm a aspiring software developer based in India. I have a passion for coding, web development, and machine learning, and I'm always eager to learn and collaborate on exciting projects.
 
-About Me: 
-🔭 I’m currently working on a image processing project.
+##About Me: 
 
-🌱 I’m learning ReactJS and AngularJS.
+-🔭 I’m currently working on a image processing project.
 
-📫 How to reach me: siddhantgarodia23@gmail.com.
+-🌱 I’m learning ReactJS and AngularJS.
 
-Skills:
+-📫 How to reach me: siddhantgarodia23@gmail.com.
 
-Languages:
+##Skills:
 
-Python (Proficient), C++ (Proficient), Java (Intermediate), C (Intermediate)
+#Languages:
 
-Web Development:
+Python, C++ , Java , C
 
-HTML (Proficient), CSS (Proficient), JavaScript (Proficient), ReactJS (Intermediate), AngularJS (Familiar)
+#Web Development:
 
-Databases and Back-end:
+HTML, CSS, JavaScript, ReactJS, AngularJS
 
-MySQL (Proficient), Git (Proficient), Linux (Intermediate)
+#Databases and Back-end:
 
-Machine Learning and AI:
+MySQL , Git , Linux 
 
-OpenCV (Proficient), TensorFlow (Intermediate), YOLOv8 (Familiar)
+#Machine Learning and AI:
+
+OpenCV , TensorFlow , YOLOv8
 
 <!--
 **siddhantgarodia/siddhantgarodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
