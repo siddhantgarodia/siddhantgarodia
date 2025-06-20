@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a aspiring software developer based in India. 
 
 ## About Me: 
 
-- I’m currently working on a image processing project.
+- I’m currently working on a web-development project.
 
-- I’m learning ReactJS and AngularJS.
+- I’m learning NodeJS and  NextJS.
 
 - How to reach me: siddhantgarodia23@gmail.com.
 
@@ -14,15 +14,15 @@ Welcome to my GitHub profile! I'm a aspiring software developer based in India. 
 
 ### Languages:
 
-C++, Java, Python, C
+C++, Java, Python, C, JavaScript
 
 ### Web Development:
 
-HTML, CSS, JavaScript, ReactJS, NodeJS
+HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS
 
 ### Databases and Version Control:
 
-MySQL , Git , Linux 
+MySQL, MongoDB, Git
 
 ### Machine Learning and AI:
 
