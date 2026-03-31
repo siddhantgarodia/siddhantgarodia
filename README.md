@@ -2,19 +2,15 @@
 
 Welcome to my GitHub profile! I'm a aspiring software developer based in India. I have a passion for coding, web development, and machine learning, and I'm always eager to learn and collaborate on exciting projects.
 
-## About Me: 
-
-- I’m currently working on a web-development project.
-
-- I’m learning NodeJS and  NextJS.
-
-- How to reach me: siddhantgarodia23@gmail.com.
 
 ## Skills:
 
 ### Languages:
 
 C++, Java, Python, C, JavaScript
+
+### Data Analytics:
+MS Excel, Power BI
 
 ### Web Development:
 
